@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.5rem;
+    font-weight:bolder;
+    background-image:url(./woman.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+h1,h2 {
+    text-align: center;
+}
+h1 {
+    font-size:3rem;
+    color:greenyellow;
+    font-weight: bolder;
+}
+h2 {
+    font-size: 2.8rem;
+    color:blue;
+}
+span {
+    color:white;
+}
+h3 {
+    color:greenyellow;
+}
+.container {
+    background-color: rgba(147, 49, 147, 0.406);
+    max-width:100%;
+    min-height: 100vh;
+}
